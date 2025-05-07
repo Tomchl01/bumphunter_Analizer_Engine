@@ -1,5 +1,6 @@
 # Data files
 *.csv
+*.html
 *.json
 output/
 
