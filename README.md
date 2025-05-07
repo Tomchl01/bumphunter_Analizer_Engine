@@ -43,9 +43,7 @@ pip install pandas numpy
 📁 Usage
 Simply drop your session log file into the project folder and run:
 
-bash
-Copy
-Edit
+
 python Analizer.py
 The engine will:
 
@@ -93,9 +91,6 @@ bumphunter_report.html
 🛠️ Configuration (Optional)
 To adjust detection sensitivity or customize output paths, edit these constants at the bottom of Analizer.py:
 
-python
-Copy
-Edit
 INPUT_FILE = r"path\\to\\your\\file.csv"
 OUTPUT_DIR = r"path\\to\\your\\output\\folder"
 TEMPLATE_FILE = r"path\\to\\template.html"
