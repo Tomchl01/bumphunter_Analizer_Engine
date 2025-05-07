@@ -1,0 +1,17 @@
+# Data files
+*.csv
+*.json
+output/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+env/
+
+# IDE files
+.vscode/
+*.code-workspace
